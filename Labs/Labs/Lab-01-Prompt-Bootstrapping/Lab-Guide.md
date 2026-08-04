@@ -503,3 +503,173 @@ Before moving on
 - [ ] I understand why the improved version worked better.
 
 ➡ Continue to **Step 5 – Use Prompt Bootstrapping for Real Classroom Tasks**
+---
+
+# Step 5 – Classroom Challenge
+
+## 🎯 Mission
+
+You've learned Prompt Bootstrapping.
+
+Now use it on a real task that you already need to complete this week.
+
+Choose **ONE** task from the list below.
+
+---
+
+## Choose Your Challenge
+
+☐ Create tomorrow's lesson plan
+
+☐ Design a classroom activity
+
+☐ Create a worksheet
+
+☐ Create an assessment or quiz
+
+☐ Write report card comments
+
+☐ Write a parent communication
+
+☐ Prepare a school notice
+
+☐ Create differentiated activities
+
+☐ Create homework
+
+☐ Other
+
+____________________________
+
+---
+
+## Your Original Prompt
+
+Write your first prompt.
+
+```
+
+__________________________________________
+
+__________________________________________
+
+__________________________________________
+
+```
+
+---
+
+## Your Bootstrapped Prompt
+
+Ask AI to improve your prompt before answering.
+
+Paste the improved version below.
+
+```
+
+__________________________________________
+
+__________________________________________
+
+__________________________________________
+
+__________________________________________
+
+```
+
+---
+
+## AI Output
+
+Paste part of the final answer.
+
+```
+
+__________________________________________
+
+__________________________________________
+
+__________________________________________
+
+__________________________________________
+
+```
+
+---
+
+# Compare the Results
+
+| Question | Rating (1–5) |
+|-----------|--------------|
+| Better organized | ⭐⭐⭐⭐⭐ |
+| Easier to use | ⭐⭐⭐⭐⭐ |
+| Saved editing time | ⭐⭐⭐⭐⭐ |
+| More classroom-ready | ⭐⭐⭐⭐⭐ |
+
+---
+
+# Reflection
+
+Complete the following.
+
+The biggest improvement AI made was:
+
+```
+
+__________________________________________
+
+__________________________________________
+
+```
+
+---
+
+The part I still needed to edit was:
+
+```
+
+__________________________________________
+
+__________________________________________
+
+```
+
+---
+
+Next time I will include:
+
+☐ Grade level
+
+☐ Learning objectives
+
+☐ Time duration
+
+☐ Student ability level
+
+☐ Assessment
+
+☐ Output format
+
+☐ Examples
+
+☐ Success criteria
+
+---
+
+## Teacher Tip
+
+Prompt Bootstrapping does not replace your professional judgement.
+
+It simply helps AI understand your teaching goals more clearly.
+
+Always review AI-generated content before using it with students.
+
+---
+
+## ✅ Checkpoint 5
+
+- [ ] I completed one real classroom task.
+- [ ] I compared my original and improved prompts.
+- [ ] I reflected on the quality of the AI response.
+
+➡ Continue to **Step 6 – Build Your Personal Prompt Library**
