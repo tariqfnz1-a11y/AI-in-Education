@@ -8,6 +8,24 @@ Welcome to the **AI Teaching Labs**, a collection of short, practical, and inter
 
 Each lab focuses on **one AI skill** that you can learn and apply immediately in your classroom or school.
 
+------
+
+## 📋 Lab Overview
+
+In this lab you will:
+
+- ✅ Learn what Prompt Bootstrapping is.
+- ✅ Improve a weak AI prompt.
+- ✅ Complete one real classroom task.
+- ✅ Save your best prompt.
+- ✅ Reflect on your learning.
+
+---
+
+## 🎯 Learning Outcome
+
+By the end of this lab, you will be able to use Prompt Bootstrapping to generate better AI responses for your classroom and school tasks.
+
 ---
 
 ## 🎯 Learning Philosophy
