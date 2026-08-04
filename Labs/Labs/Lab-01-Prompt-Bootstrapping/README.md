@@ -1,4 +1,8 @@
-# 📚 AI Teaching Labs
+# AI Teaching Lab #01
+
+## Prompt Bootstrapping
+
+**Estimated Time:** 15–20 minutes# 📚 AI Teaching Labs
 
 Welcome to the **AI Teaching Labs**, a collection of short, practical, and interactive learning experiences designed specifically for teachers, educators, and school leaders.
 
