@@ -673,3 +673,171 @@ Always review AI-generated content before using it with students.
 - [ ] I reflected on the quality of the AI response.
 
 ➡ Continue to **Step 6 – Build Your Personal Prompt Library**
+---
+
+# Step 6 – Build Your Personal Prompt Library
+
+## 🎯 Mission
+
+Great teachers don't reinvent every lesson.
+
+Great AI users don't rewrite every prompt.
+
+Instead, they build a **Personal Prompt Library**—a collection of prompts that can be reused, adapted, and improved over time.
+
+Today, you'll start building yours.
+
+---
+
+## Why Build a Prompt Library?
+
+A good prompt is like a good lesson plan.
+
+Once you've created it, you can:
+
+- Reuse it
+- Improve it
+- Share it with colleagues
+- Adapt it for different classes
+
+Over time, you'll save hours of preparation.
+
+---
+
+## Activity 1 – Save Your Best Prompt
+
+Copy your improved prompt from Step 5.
+
+### My Best Prompt
+
+```
+
+_______________________________________________
+
+_______________________________________________
+
+_______________________________________________
+
+_______________________________________________
+
+```
+
+---
+
+## Activity 2 – Name Your Prompt
+
+Give your prompt a meaningful name.
+
+Example:
+
+- Grade 6 Science Lesson Generator
+- Parent Communication Assistant
+- Weekly Quiz Creator
+- Homework Generator
+
+My Prompt Name
+
+```
+
+_______________________________________________
+
+```
+
+---
+
+## Activity 3 – Categorize It
+
+Subject
+
+```
+
+_______________________________________________
+
+```
+
+Grade Level
+
+```
+
+_______________________________________________
+
+```
+
+Purpose
+
+```
+
+_______________________________________________
+
+```
+
+---
+
+## Activity 4 – Rate Your Prompt
+
+| Question | Rating |
+|-----------|--------|
+| Easy to reuse | ⭐⭐⭐⭐⭐ |
+| Saves time | ⭐⭐⭐⭐⭐ |
+| Produces consistent results | ⭐⭐⭐⭐⭐ |
+| Easy to modify | ⭐⭐⭐⭐⭐ |
+
+---
+
+## Reflection
+
+Complete the sentence.
+
+I will use this prompt when...
+
+```
+
+_______________________________________________
+
+_______________________________________________
+
+```
+
+---
+
+## Your Growing Prompt Library
+
+Today you created:
+
+✅ Prompt #1
+
+Future Labs will help you build:
+
+□ Lesson Planning Prompt
+
+□ Quiz Generator Prompt
+
+□ Worksheet Prompt
+
+□ Differentiation Prompt
+
+□ Parent Communication Prompt
+
+□ Report Card Comment Prompt
+
+□ AI Tutor Prompt
+
+□ Project-Based Learning Prompt
+
+---
+
+## Teacher Tip
+
+Your Prompt Library is one of the most valuable AI resources you will ever create.
+
+Instead of searching online every time, you'll build your own trusted collection of classroom-tested prompts.
+
+---
+
+## ✅ Checkpoint 6
+
+- [ ] I saved my best prompt.
+- [ ] I gave it a meaningful name.
+- [ ] I added it to my Prompt Library.
+
+➡ Continue to **Step 7 – Reflection and Action Plan**
