@@ -83,4 +83,30 @@ By completing these labs, you'll gradually build:
 
 ---
 
-Happy learning!
+Happy learning!---
+
+# 🎉 Congratulations!
+
+You have completed **AI Teaching Lab #01 – Prompt Bootstrapping**.
+
+## What You Achieved
+
+✅ Learned Prompt Bootstrapping
+
+✅ Improved an AI prompt
+
+✅ Completed one classroom task
+
+✅ Started your Personal Prompt Library
+
+---
+
+## What's Next?
+
+➡ **AI Teaching Lab #02 – Meta Prompting**
+
+In the next lab, you'll learn how to ask AI to create excellent prompts for you from scratch.
+
+---
+
+**Part of the _AI in Education_ Interactive Lab Series**
