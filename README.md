@@ -1,34 +1,57 @@
 # AI in Education
 
-> Practical AI resources, interactive teaching labs, and prompt libraries for teachers, educators, and school leaders.
+> Practical AI skills for teachers, educators, and school leaders.
 
-Welcome to **AI in Education**, the companion repository to my LinkedIn newsletter **AI in Education**.
+Welcome to **AI in Education**, the companion GitHub repository for my LinkedIn newsletter **AI in Education**.
 
-This repository is designed to help educators move beyond simply reading about AI to **learning by doing**.
+This repository contains **interactive AI Teaching Labs** that help educators learn AI by doing—not just by reading.
 
-Every LinkedIn edition is paired with a practical **AI Teaching Lab** that can be completed in 15–20 minutes.
+---
 
-## 🎯 Objectives
+## 🎯 Start Here
 
-- Learn one AI skill at a time
-- Apply it immediately in your classroom
-- Build your own prompt library
-- Save time on lesson planning, assessments, and school administration
+If you're new to AI, begin with:
 
-## 📚 AI Teaching Labs
+📘 **Lab 01 – Prompt Bootstrapping**
+
+📂 `Labs/Lab-01-Prompt-Bootstrapping`
+
+---
+
+## 📚 Current Labs
 
 | Lab | Topic | Status |
 |------|-------|--------|
-| Lab 01 | Prompt Bootstrapping | 🚧 In Progress |
+| Lab 01 | Prompt Bootstrapping | ✅ Available |
+| Lab 02 | Meta Prompting | 🚧 Coming Soon |
+| Lab 03 | Chain-of-Thought Prompting | 🚧 Coming Soon |
 
-## 🤝 Who is this for?
+---
+
+## 🎓 Who Is This For?
 
 - Teachers
-- School Heads
+- School Leaders
 - Coordinators
 - Teacher Trainers
 - Education Managers
 
-## ⭐ Stay Connected
+---
 
-Follow my LinkedIn newsletter **AI in Education** for new labs and updates.
+## 💡 Goal
+
+My goal is to help educators:
+
+- Save time with AI
+- Create better lessons
+- Improve assessments
+- Communicate more effectively
+- Build practical AI skills through hands-on labs
+
+---
+
+## 🤝 Contribute
+
+Suggestions, ideas, and classroom examples are always welcome.
+
+If you find these labs useful, please ⭐ Star this repository and share it with other educators.
