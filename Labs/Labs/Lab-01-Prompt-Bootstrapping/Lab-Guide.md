@@ -78,6 +78,104 @@ Reflect
 Apply
    ↓
 Save Your Best Prompt
+---
+
+# Step 2 – Warm-Up Activity
+
+## 🎯 Your First Prompt
+
+Before learning Prompt Bootstrapping, let's see how you currently communicate with AI.
+
+Think of a task you regularly perform as a teacher.
+
+Examples:
+
+- Create a lesson plan
+- Design a worksheet
+- Prepare a quiz
+- Write report card comments
+- Draft a parent message
+- Prepare a school notice
+
+---
+
+## ✍️ Activity 1
+
+Write the exact prompt you would normally give AI.
+
+> Don't try to improve it.
+>
+> Write it exactly as you would today.
+
+```
+My Prompt
+
+______________________________________________
+
+______________________________________________
+
+______________________________________________
+
+```
+
+---
+
+## 🤔 Self-Reflection
+
+Rate your prompt.
+
+| Question | Yes | No |
+|----------|:---:|:--:|
+| Does it clearly explain the topic? | ☐ | ☐ |
+| Does it mention the grade level? | ☐ | ☐ |
+| Does it explain the learning objective? | ☐ | ☐ |
+| Does it specify the output format? | ☐ | ☐ |
+| Does it mention student ability level? | ☐ | ☐ |
+
+---
+
+## ⭐ Score Yourself
+
+How many **Yes** answers?
+
+☐ 0–1
+
+☐ 2–3
+
+☐ 4–5
+
+Don't worry if your score is low.
+
+That's exactly why you're here.
+
+By the end of this lab, you'll compare this prompt with a much stronger version.
+
+---
+
+## 📝 Reflection
+
+Complete this sentence.
+
+The weakest part of my prompt is:
+
+```
+______________________________________________
+
+______________________________________________
+
+```
+
+---
+
+## ✅ Checkpoint 2
+
+Before moving on:
+
+- [ ] I have written my original prompt.
+- [ ] I have evaluated it honestly.
+- [ ] I'm ready to improve it.
+
+➡ Continue to **Step 3 – What Is Prompt Bootstrapping?**
 ```
 
 ---
