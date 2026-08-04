@@ -181,5 +181,131 @@ Before moving on:
 ---
 
 # 🚀 Ready?
+---
+
+# Step 3 – Discover Prompt Bootstrapping
+
+## 💡 Big Idea
+
+Imagine asking a colleague to review your lesson plan before you teach it.
+
+Prompt Bootstrapping works the same way.
+
+Instead of asking AI to complete your task immediately, you first ask AI to improve your prompt.
+
+You're letting AI become your **Prompt Coach** before it becomes your **Teaching Assistant**.
+
+---
+
+## Traditional Workflow
+
+```
+
+Teacher writes prompt
+↓
+AI answers
+↓
+Teacher edits
+↓
+Teacher asks again
+↓
+Teacher edits again
+
+```
+
+---
+
+## Prompt Bootstrapping Workflow
+
+```
+
+Teacher writes prompt
+↓
+AI improves the prompt
+↓
+Teacher reviews the improved prompt
+↓
+AI completes the task
+↓
+Better first result
+
+```
+
+---
+
+## The Golden Prompt
+
+Copy and save this prompt.
+
+> **I want better results from this prompt. Help me rewrite it to make it clearer, more specific, and more effective before answering it.**
+
+This single prompt can improve almost any classroom task.
+
+---
+
+## Example
+
+### Original Prompt
+
+> Create a lesson on fractions.
+
+---
+
+### AI-Improved Prompt
+
+> Design a 40-minute Grade 6 Mathematics lesson on equivalent fractions. Include learning objectives, engaging activities, differentiated instruction, formative assessment, homework, and an exit ticket. Present the lesson in a table.
+
+---
+
+### Which Prompt Gives Better Results?
+
+☐ Original Prompt
+
+☐ Improved Prompt
+
+Why?
+
+```
+_____________________________________________________
+
+_____________________________________________________
+
+```
+
+---
+
+## Why Does It Work?
+
+The improved prompt gives AI more useful information.
+
+It tells AI:
+
+✅ Who the learners are
+
+✅ What topic to teach
+
+✅ How long the lesson should be
+
+✅ What the final output should include
+
+Instead of guessing, AI understands exactly what you need.
+
+---
+
+## Remember This
+
+> **Better prompts don't just produce better answers—they reduce editing, save time, and make AI a more effective teaching partner.**
+
+---
+
+## ✅ Checkpoint 3
+
+Before continuing:
+
+- [ ] I understand what Prompt Bootstrapping is.
+- [ ] I can explain why it works.
+- [ ] I have copied the Golden Prompt.
+
+➡ Continue to **Step 4 – Let AI Improve Your Prompt**
 
 Turn to the next section and let's improve your very first prompt.
