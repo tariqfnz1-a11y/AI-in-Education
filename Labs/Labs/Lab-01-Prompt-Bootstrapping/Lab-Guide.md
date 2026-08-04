@@ -309,3 +309,188 @@ Before continuing:
 ➡ Continue to **Step 4 – Let AI Improve Your Prompt**
 
 Turn to the next section and let's improve your very first prompt.
+---
+
+# Step 4 – Let AI Become Your Prompt Coach
+
+## 🎯 Mission
+
+In this activity, AI will not complete your task.
+
+Instead, AI will become your **Prompt Coach**.
+
+Its only job is to improve your prompt.
+
+---
+
+## Step 1
+
+Open your favorite AI assistant.
+
+Examples
+
+- ChatGPT
+- Gemini
+- Claude
+- Microsoft Copilot
+
+---
+
+## Step 2
+
+Copy your original prompt from **Activity 1**.
+
+Example
+
+> Create a lesson on fractions.
+
+---
+
+## Step 3
+
+Now copy and paste this prompt into your AI assistant.
+
+> I want better results from this prompt.
+
+> Help me rewrite it to make it clearer, more specific, and more effective before answering it.
+
+> Here is my prompt:
+
+> [Paste your prompt here.]
+
+---
+
+## ✍ Activity 2
+
+Paste the improved prompt below.
+
+```
+
+Improved Prompt
+
+_______________________________________________
+
+_______________________________________________
+
+_______________________________________________
+
+_______________________________________________
+
+```
+
+---
+
+## Step 4
+
+Now ask AI to complete the task using its improved prompt.
+
+Paste part of the answer below.
+
+```
+
+AI Output
+
+_______________________________________________
+
+_______________________________________________
+
+_______________________________________________
+
+_______________________________________________
+
+```
+
+---
+
+# Compare
+
+| Question | Original | Improved |
+|-----------|----------|----------|
+| Easy to understand | ⭐⭐ | ⭐⭐⭐⭐⭐ |
+| More specific | ⭐ | ⭐⭐⭐⭐⭐ |
+| Better organized | ⭐⭐ | ⭐⭐⭐⭐⭐ |
+| Classroom ready | ⭐ | ⭐⭐⭐⭐⭐ |
+
+---
+
+# Reflection
+
+What surprised you most?
+
+☐ AI added details I forgot.
+
+☐ AI understood my goal better.
+
+☐ The answer required less editing.
+
+☐ The lesson became more engaging.
+
+☐ Other
+
+_____________________________
+
+---
+
+# Think Like a Teacher
+
+Imagine you repeat this process every day.
+
+If Prompt Bootstrapping saves just **10 minutes** per lesson...
+
+How much time could you save in one week?
+
+```
+
+Daily Time Saved
+
+________ minutes
+
+Weekly Time Saved
+
+________ minutes
+
+Monthly Time Saved
+
+________ hours
+
+```
+
+---
+
+# Teacher's Insight
+
+Complete this sentence.
+
+Prompt Bootstrapping is useful because...
+
+```
+
+___________________________________________
+
+___________________________________________
+
+```
+
+---
+
+## ⭐ AI Tip
+
+Never settle for the first prompt.
+
+Treat your first prompt as a rough draft.
+
+Then let AI improve it before completing the task.
+
+Professional AI users rarely use their first prompt unchanged.
+
+---
+
+## ✅ Checkpoint 4
+
+Before moving on
+
+- [ ] AI improved my prompt.
+- [ ] I compared both prompts.
+- [ ] I understand why the improved version worked better.
+
+➡ Continue to **Step 5 – Use Prompt Bootstrapping for Real Classroom Tasks**
