@@ -841,3 +841,170 @@ Instead of searching online every time, you'll build your own trusted collection
 - [ ] I added it to my Prompt Library.
 
 ➡ Continue to **Step 7 – Reflection and Action Plan**
+---
+
+# Step 7 – Reflection & Action Plan
+
+## 🎯 Congratulations!
+
+You have completed **AI Teaching Lab #01 – Prompt Bootstrapping**.
+
+Today you learned that AI doesn't just answer questions.
+
+It can also help you ask better questions.
+
+That one shift in mindset can improve nearly every AI task you perform as an educator.
+
+---
+
+# What Did You Learn?
+
+Complete the sentences below.
+
+## The most valuable idea I learned today was...
+
+```
+
+_______________________________________________
+
+_______________________________________________
+
+```
+
+---
+
+## One thing I will start doing immediately is...
+
+```
+
+_______________________________________________
+
+_______________________________________________
+
+```
+
+---
+
+## One prompt I will improve this week is...
+
+```
+
+_______________________________________________
+
+_______________________________________________
+
+```
+
+---
+
+# My Action Plan
+
+This week I will use Prompt Bootstrapping for:
+
+☐ Lesson Planning
+
+☐ Classroom Activities
+
+☐ Assessment Design
+
+☐ Parent Communication
+
+☐ School Administration
+
+☐ Teacher Professional Development
+
+☐ Other
+
+_________________________
+
+---
+
+# Confidence Check
+
+How confident do you now feel using Prompt Bootstrapping?
+
+☐ ⭐ Beginner
+
+☐ ⭐⭐ Improving
+
+☐ ⭐⭐⭐ Comfortable
+
+☐ ⭐⭐⭐⭐ Confident
+
+☐ ⭐⭐⭐⭐⭐ I can teach someone else.
+
+---
+
+# Key Takeaways
+
+✔ Better prompts create better AI responses.
+
+✔ AI can improve your prompts before answering them.
+
+✔ Small improvements in prompts save significant time.
+
+✔ Building a Prompt Library increases your productivity over time.
+
+✔ Effective prompting is a professional skill every educator can develop.
+
+---
+
+# Share Your Learning
+
+If you're following the **AI in Education** LinkedIn newsletter, I'd love to hear about your experience.
+
+Share:
+
+- What classroom task did you improve?
+- What surprised you?
+- What prompt will you reuse?
+
+Learning grows stronger when educators learn together.
+
+---
+
+# Your Achievement
+
+Today you successfully:
+
+✅ Improved an AI prompt.
+
+✅ Used AI as a Prompt Coach.
+
+✅ Completed a real classroom task.
+
+✅ Started your Personal Prompt Library.
+
+Be proud of your progress—this is the first step toward becoming a more confident and effective AI user.
+
+---
+
+# Looking Ahead
+
+In the next lab you'll learn another powerful AI technique:
+
+## AI Teaching Lab #02
+
+### Meta Prompting
+
+Instead of writing prompts yourself...
+
+You'll learn how to ask AI to create outstanding prompts for you from scratch.
+
+This is one of the fastest ways to generate high-quality prompts for lesson planning, assessment, classroom communication, and professional development.
+
+---
+
+# Thank You
+
+Thank you for completing **AI Teaching Lab #01**.
+
+Keep experimenting.
+
+Keep refining.
+
+Keep learning.
+
+Most importantly—
+
+Keep teaching with purpose, while letting AI handle more of the routine work.
