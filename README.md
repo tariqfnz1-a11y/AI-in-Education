@@ -1,4 +1,9 @@
 # AI in Education
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Labs](https://img.shields.io/badge/Labs-Interactive-blue)
+![Audience](https://img.shields.io/badge/Audience-Teachers-orange)
+![Level](https://img.shields.io/badge/Level-Beginner-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 > Practical AI skills for teachers, educators, and school leaders.
 
