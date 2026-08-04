@@ -1,4 +1,13 @@
-# 📘 AI Teaching Lab #01
+# 📘 AI Teaching Lab #01# Contents
+
+- [Step 1 – Welcome](#step-1--welcome)
+- [Step 2 – Warm-Up Activity](#step-2--warm-up-activity)
+- [Step 3 – Discover Prompt Bootstrapping](#step-3--discover-prompt-bootstrapping)
+- [Step 4 – Let AI Become Your Prompt Coach](#step-4--let-ai-become-your-prompt-coach)
+- [Step 5 – Classroom Challenge](#step-5--classroom-challenge)
+- [Step 6 – Build Your Prompt Library](#step-6--build-your-prompt-library)
+- [Step 7 – Reflection](#step-7--reflection)
+- [Step 8 – What's Next?](#step-8--whats-next)
 
 # Stop Guessing What AI Wants
 
