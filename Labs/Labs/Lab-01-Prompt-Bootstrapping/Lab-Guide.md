@@ -1017,3 +1017,33 @@ Keep learning.
 Most importantly—
 
 Keep teaching with purpose, while letting AI handle more of the routine work.
+---
+
+# 🧪 Activity 1: Improve Your First Prompt
+
+## Step 1 — Write a Basic Prompt
+
+Think of a task where you want AI assistance.
+
+Examples:
+
+- Create a lesson plan
+- Generate a quiz
+- Write a parent message
+- Prepare classroom activities
+
+### My Basic Prompt
+
+Write your prompt here:
+
+____________________________________
+
+____________________________________
+
+
+---
+
+## Step 2 — Ask AI to Improve It
+
+Copy this instruction into your AI tool:
+
