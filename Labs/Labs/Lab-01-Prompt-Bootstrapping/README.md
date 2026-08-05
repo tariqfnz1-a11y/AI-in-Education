@@ -31,6 +31,32 @@ By the end of this lab, you will be able to use Prompt Bootstrapping to generate
 ## 🎯 Learning Philosophy
 
 Every lab follows the same simple process:
+---
+
+## 🚀 Complete This Lab
+
+Follow the learning path:
+
+1. 📖 Read the Lab Introduction
+2. 🧠 Learn Prompt Bootstrapping
+3. ✍️ Improve your own prompt
+4. 🏫 Apply it to a classroom task
+5. 📚 Save your prompt in your Prompt Library
+
+---
+
+## 📂 Lab Files
+
+| File | Purpose |
+|------|---------|
+| `README.md` | Lab introduction |
+| `Lab-Guide.md` | Interactive workbook |
+
+---
+
+⬅️ Back to [AI Teaching Labs](../README.md)
+
+🏠 Back to [AI in Education](../../README.md)
 
 ```text
 Learn
