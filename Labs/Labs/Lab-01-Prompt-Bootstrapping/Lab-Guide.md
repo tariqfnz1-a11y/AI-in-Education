@@ -56,6 +56,15 @@ By the end of this lab, you will be able to:
 # ⏱ Time Required
 
 15–20 minutes
+---
+
+## 🔄 Prompt Bootstrapping Workflow
+
+![Prompt Bootstrapping Workflow](images/prompt-bootstrapping-workflow.png)
+
+*Figure 1: Prompt Bootstrapping helps educators improve prompts before asking AI to create resources.*
+
+---
 
 ---
 
