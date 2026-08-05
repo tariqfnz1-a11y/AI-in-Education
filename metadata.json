@@ -1,0 +1,8 @@
+{
+  "name": "Smart Lesson Planner - Modern School Format",
+  "description": "An AI-powered EdTech app that helps teachers generate structured, classroom-ready lesson plans in under 3 minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
