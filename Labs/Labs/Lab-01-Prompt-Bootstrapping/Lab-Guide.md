@@ -1046,4 +1046,61 @@ ____________________________________
 ## Step 2 — Ask AI to Improve It
 
 Copy this instruction into your AI tool:
+---
+
+# 🎉 Lab Completion
+
+Congratulations! You have completed:
+
+## AI Teaching Lab #01  
+## Prompt Bootstrapping
+
+You learned how to:
+
+✅ Identify a weak AI prompt  
+✅ Ask AI to improve the prompt  
+✅ Add context, goals, and output requirements  
+✅ Create a reusable classroom prompt  
+
+---
+
+# 📌 Your Next Action
+
+Save your improved prompt in your personal:
+
+**Prompt Library**
+
+Suggested categories:
+
+- Lesson Planning
+- Assessments
+- Student Activities
+- Parent Communication
+- School Management
+
+---
+
+# 💭 Final Reflection
+
+Complete this sentence:
+
+> "After this lab, I will use AI differently by..."
+
+____________________________________
+
+____________________________________
+
+---
+
+## Continue Learning
+
+➡️ Next Lab:
+
+**AI Teaching Lab #02 — Meta Prompting**
+
+Learn how to ask AI to create powerful prompts from scratch.
+
+---
+
+**AI in Education Interactive Lab Series**
 
